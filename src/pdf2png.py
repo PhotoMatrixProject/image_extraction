@@ -1,4 +1,3 @@
-from pdf2jpg import pdf2jpg
 import fitz
 from PyPDF2 import PdfWriter, PdfReader
 import os
